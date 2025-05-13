@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "907767442735",
+    "project_id": "if670-11-michael",
+    "storage_bucket": "if670-11-michael.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907767442735:android:8dbc98324ebe449d7705da",
+        "android_client_info": {
+          "package_name": "com.michaelvallent71631.if670.w11"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBA3F-RCKi29BvwX0tJ0ZdtgBHJ3uHxMT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
